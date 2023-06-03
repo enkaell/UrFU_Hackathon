@@ -1,2 +1,2 @@
 # Chat-Bot-Vk
-Много плохого кода
+Small chat-bot for Russian social media Vkontakte
